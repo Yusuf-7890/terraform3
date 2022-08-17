@@ -1,0 +1,3 @@
+variable "buck" {
+    type = string
+}
